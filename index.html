@@ -189,7 +189,7 @@
     (function () {
       var wasPlaying = false;
 
-      var GIFT_SRC = 'style/gift/gift.html';
+      var GIFT_SRC = 'style/gift/gift.html?v=' + new Date().getTime();
 
       // Khi mở Gift: load iframe, dừng nhạc player ngoài
       document.getElementById('btn-gift').addEventListener('click', function () {

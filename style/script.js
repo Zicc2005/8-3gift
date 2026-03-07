@@ -24,7 +24,7 @@ function a0_0x6d9f() {
 async function loadLetter() {
   const _0x5c9f82 = a0_0x4cd241, _0x178f31 = {CTevf: function (_0x1d57f3, _0x5a1f48) {
     return _0x1d57f3(_0x5a1f48);
-  }, mtCfz: _0x5c9f82(330), thdbK: "Mãi yêu em ❤️"};
+  }, mtCfz: _0x5c9f82(330), thdbK: "Chúc em một ngày đáng nhớ ❤️"};
   try {
     const _0x2fec4f = await _0x178f31[_0x5c9f82(229)](fetch, _0x5c9f82(218)), _0x2739ab = await _0x2fec4f.text();
     letterText = _0x2739ab.split(/\n\s*\n/)[_0x5c9f82(283)](_0x22ac78 => _0x22ac78[_0x5c9f82(195)]())[_0x5c9f82(193)](_0x3e16f3 => _0x3e16f3 !== "");
@@ -35,27 +35,27 @@ async function loadLetter() {
 loadLetter();
 const songs = [
   {
-    title: "Bài 1",
+    title: "Chúc Em Ngủ Ngon",
     cover: "style/sound/Anh (1).jpg",
-    src: "style/sound/1.mp3"
-  },
-  {
-    title: "Bài 2",
-    cover: "style/sound/Anh (2).jpg",
-    src: "style/sound/2.mp3"
-  },
-  {
-    title: "Bài 3",
-    cover: "style/sound/Anh (3).jpg",
-    src: "style/sound/3.mp3"
-  },
-  {
-    title: "Bài 4",
-    cover: "style/sound/Anh (4).jpg",
     src: "style/sound/4.mp3"
   },
   {
-    title: "Bài 5",
+    title: "Em Là Kẻ Đáng Thương",
+    cover: "style/sound/Anh (2).jpg",
+    src: "style/sound/1.mp3"
+  },
+  {
+    title: "Luôn Yêu Đời",
+    cover: "style/sound/Anh (3).jpg",
+    src: "style/sound/2.mp3"
+  },
+  {
+    title: "Vui Không Em",
+    cover: "style/sound/Anh (4).jpg",
+    src: "style/sound/3.mp3"
+  },
+  {
+    title: "Về Đâu Mái Tóc Người Thương",
     cover: "style/sound/Anh (5).jpg",
     src: "style/sound/5.mp3"
   }
@@ -471,7 +471,7 @@ window.addEventListener("click", () => {
 }, true), loadSong(songs[songIndex]);
 const lockScreen = document[a0_0x4cd241(355)](a0_0x4cd241(425)), mainContent = document.getElementById("main-content"), passDots = document[a0_0x4cd241(402)](a0_0x4cd241(337)), numBtns = document[a0_0x4cd241(402)](a0_0x4cd241(291)), deleteBtn = document[a0_0x4cd241(457)](a0_0x4cd241(234));
 let enteredPin = "";
-const correctPin = "1611";
+const correctPin = "0611";
 function updateDots() {
   const _0x2a8c62 = a0_0x4cd241, _0x479bee = {nIkaK: _0x2a8c62(220), wtNih: "heart", JZNsj: _0x2a8c62(387), uFFAj: _0x2a8c62(418), JFmXZ: function (_0x221e9b, _0x5d830a) {
     return _0x221e9b > _0x5d830a;

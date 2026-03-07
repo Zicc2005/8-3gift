@@ -1,6 +1,6 @@
 # Quà đặc biệt tặng cho người mình yêu 💗
 
-![quoctephunu](https://github.com/user-attachments/assets/92bba93f-a61d-4d2f-a0ae-4f011833eac0)
+![quoctephunu]
 
 ---
 >Nếu cảm thấy thích thú, bạn có thể ủng hộ mình thông qua tài khoản này, để mình có thêm động lực tạo ra nhiều thứ hay hơn
